@@ -1,6 +1,7 @@
 name: re3 premake amd64
 
 on:
+  workflow_dispatch:
   pull_request:
   push:
   release:
